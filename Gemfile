@@ -10,3 +10,4 @@ gem "pry"
 gem 'thin'
 gem 'tux'
 gem 'require_all'
+gem 'envyable'
